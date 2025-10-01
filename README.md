@@ -1,0 +1,15 @@
+body{
+    background-color: beige;
+}
+
+#card{
+    background-color: lightcyan;
+    color: black;
+    font-size: larger;
+    font-weight: 100;
+}
+
+#boton{
+    background-color: white;
+    color: blue;
+}
