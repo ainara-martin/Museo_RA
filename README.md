@@ -12,6 +12,9 @@ Fuente usada:
   2. En macOS/iOS → San Francisco
   3. En Android/Linux → Roboto o Ubuntu
 
+- A continuación dejo una imagen de una fuente que se parece mucho a la fuente de Segoe UI:
+  <img width="1915" height="910" alt="Captura de pantalla 2025-10-14 185519" src="https://github.com/user-attachments/assets/7262343f-9bb0-4b14-8de7-27bd3178777f" />
+
 Colores usados en la web:
 
 body{
@@ -29,3 +32,5 @@ body{
     background-color: white;
     color: blue;
 }
+
+<img width="1919" height="910" alt="Captura de pantalla 2025-10-14 185040" src="https://github.com/user-attachments/assets/0a257da5-4ded-46fe-a677-16473f1d729b" />
