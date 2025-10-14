@@ -29,3 +29,5 @@ body{
     background-color: white;
     color: blue;
 }
+
+<img width="1919" height="910" alt="Captura de pantalla 2025-10-14 185040" src="https://github.com/user-attachments/assets/0a257da5-4ded-46fe-a677-16473f1d729b" />
