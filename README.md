@@ -13,8 +13,8 @@ Fuente usada:
   3. En Android/Linux → Roboto o Ubuntu
 
 - A continuación dejo una imagen de una fuente que se parece mucho a la fuente de Segoe UI:
-  <img width="1915" height="910" alt="Captura de pantalla 2025-10-14 185519" src="./Web_estática/ASSETS/Imagenes/Fuente.png" />
-
+  <img width="1915" height="910" alt="Fuente" src="https://github.com/user-attachments/assets/a463b5f7-d26a-49ee-b08a-9c714d33886f" />
+  
 Colores usados en la web:
 
 body{
@@ -33,4 +33,4 @@ body{
     color: blue;
 }
 
-<img width="1919" height="910" alt="Captura de pantalla 2025-10-14 185040" src="https://github.com/user-attachments/assets/0a257da5-4ded-46fe-a677-16473f1d729b" />
+<img width="1919" height="910" alt="Colores_Usados" src="https://github.com/user-attachments/assets/0a257da5-4ded-46fe-a677-16473f1d729b" />
