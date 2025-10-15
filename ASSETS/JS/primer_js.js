@@ -16,6 +16,26 @@ $(function(){
         $(this).addClass("active");
     });
 
+    //Productos
+
+    $("#productos .card .card-body").hide();
+
+    
+    $("#productos .btn-ver-mas").on("click", function() {
+        
+        $(this).closest(".card").find(".card-body").slideToggle();
+
+        
+        const btn = $(this);
+        if (btn.text() === "Ver más") {
+            btn.text("Ver menos");
+            btn.removeClass("btn-secondary").addClass("btn-primary");
+        } else {
+            btn.text("Ver más");
+            btn.removeClass("btn-primary").addClass("btn-secondary");
+        }
+    });
+
     //Formulario
 
     $("form").each(function() {
