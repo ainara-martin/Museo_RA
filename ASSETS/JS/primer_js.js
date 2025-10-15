@@ -95,7 +95,7 @@ $(function(){
 
         
         $("#productos .card").each(function() {
-            const titulo = $(this).find(".card-header").text().toLowerCase(); // solo el header
+            const titulo = $(this).find(".card-header").text().toLowerCase(); 
             if (titulo.includes(buscador)) {
                 $(this).show();
             } else {
