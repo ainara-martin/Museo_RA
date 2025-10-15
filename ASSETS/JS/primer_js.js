@@ -16,6 +16,21 @@ $(function(){
         $(this).addClass("active");
     });
 
+    //Concepto central
+
+    $(".ver-mas").on("click", function() {
+        const cardBody = $(this).closest(".card-body");
+        const contenido = cardBody.find(".contenido-oculto");
+
+        if (contenido.is(":visible")) {
+        contenido.slideUp();
+        $(this).text("Ver más");
+        } else {
+            contenido.slideDown();
+            $(this).text("Ver menos");
+        }
+    });
+
     //Productos
 
     $("#productos .card .card-body").hide();
